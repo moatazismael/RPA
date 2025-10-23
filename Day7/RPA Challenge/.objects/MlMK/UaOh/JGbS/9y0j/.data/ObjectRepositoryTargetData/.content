@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2I6xFhFoVEG2nD3lUrFGXA" Reference="AJcxu3ClnU21P9Ya4uMTfg/9y0j5duvI02uTx66mAXLGg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="2ef37da8-bc17-4c18-b587-28f1e7b0d070" DesignTimeRectangle="1029, 475, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' ng-reflect-name='labelCompanyName' /&gt;" Guid="ea79c1a6-8a17-48c3-943e-44fa6eb7d09b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2ef37da8-bc17-4c18-b587-28f1e7b0d070" DesignTimeRectangle="1029, 451, 124, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Company Name' tag='LABEL' /&gt;" Guid="133e3c60-24fd-43f8-ad5d-5dee492a06c7" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d0ebd631b61be7f217799a895b6940d1.png" xmlns="">0KrAIpWDCQ0eHTCj6ULM43w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XJ7NIac4O0iyfWRtzdwIuQ" Reference="AJcxu3ClnU21P9Ya4uMTfg/WZruY9C46k2uHfE0wd6b_Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="2c8c829d-0953-40e0-9246-46541b0c6068" CvElementArea="622, 406, 382, 48" CvType="InputBox" DesignTimeRectangle="626, 396, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="[&lt;webctrl aaname='Company Name' tag='LABEL' /&gt;&#xD;&#xA;&lt;nav up='1' /&gt;&#xD;&#xA;&lt;webctrl tag='INPUT' /&gt;]" Guid="2fa54c21-c000-44be-b5b7-ee16ee38935c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target CVScreenId="2c8c829d-0953-40e0-9246-46541b0c6068" DesignTimeRectangle="626, 372, 124, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Company Name' tag='LABEL' /&gt;" Guid="03016fef-ad01-4546-ae60-307b9190409a" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="18e67b818ccd2de0d00bb5beb99fe2cb.png" xmlns="">0IjuRUszfAEupGW1Jhm9rlw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

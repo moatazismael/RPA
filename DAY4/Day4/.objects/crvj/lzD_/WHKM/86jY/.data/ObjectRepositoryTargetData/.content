@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fCdRXWxQJEeS11ARN1ixpg" Reference="UfJCBOyGjUSSH4Nhay-6Wg/86jY-FFFAkK_96qEhaI3vg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/chart/top" CVScreenId="8f7d2626-7fd0-4d31-8fdf-36aaa47455d5" DesignTimeRectangle="190, 213, 154, 33" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl tag='H3' class='ipc-title__text ipc-title__text--reduced' idx='{0}' /&gt;&quot;, start)]" Guid="2f71bc82-484f-4d36-9aaf-544b90a04fe4" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IMDb Top 250 movies' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dca6843654f62832b8219e3d9d281e13.png" xmlns="">00woOOklTKUa15lpWp3YJAw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="start">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>1</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

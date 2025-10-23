@@ -1,0 +1,6 @@
+{
+  "Name": "Day4",
+  "ProjectType": "Process",
+  "Description": "ACME and IMDB",
+  "MainFile": "Main.xaml"
+}

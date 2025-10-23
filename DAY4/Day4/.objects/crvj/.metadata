@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge IMDb Top 250 movies",
+  "Type": "App",
+  "Id": "crvjtXTqhEaJAdX7S59-aQ",
+  "Reference": "UfJCBOyGjUSSH4Nhay-6Wg/crvjtXTqhEaJAdX7S59-aQ",
+  "Created": "2025-10-20T12:24:29.0480312Z",
+  "Updated": "2025-10-20T12:24:29.0480312Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cJWIgtCU00egmsrk-xr_XA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt2911666" CVScreenId="faf1ce51-44c7-4928-a273-24297a522988" CvElementArea="186, 690, 1020, 41" CvType="InputBox" DesignTimeRectangle="253, 694, 921, 32" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='ipc-metadata-list-item__content-container' idx='3' parentid='__next' tag='DIV' /&gt;" Guid="03cda5d9-f098-4518-bb7f-9817cbb0207f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='John Wick (2014) - IMDb' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="faf1ce51-44c7-4928-a273-24297a522988" CvElementArea="186, 690, 1020, 41" CvType="InputBox" DesignTimeRectangle="190, 689, 1016, 42" FullSelectorArgument="&lt;webctrl aria-label='See full cast and crew' class='ipc-metadata-list-item__icon-link' tag='A' /&gt;" Guid="a641f124-68d9-40b5-915e-73ad5a6c3105" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dd4b2037fc6a84e510cdbb67dc21a052.png" xmlns="">0x-YBB4mIfkiLXOn9Zu5ffA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

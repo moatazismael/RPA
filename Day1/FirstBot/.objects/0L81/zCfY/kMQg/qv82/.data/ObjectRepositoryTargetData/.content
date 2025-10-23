@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-5tgDMmtaEmVZBBGtZfASg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt2911666" CVScreenId="faf1ce51-44c7-4928-a273-24297a522988" DesignTimeRectangle="278, 614, 141, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__next' tag='A' type='' class='ipc-metadata-list-item__list-content-item ipc-metadata-list-item__list-content-item--link' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="3978b772-6756-46af-846c-ecf7a755c579" ScopeSelectorArgument="&lt;html app='msedge.exe' title='John Wick (2014) - IMDb' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="faf1ce51-44c7-4928-a273-24297a522988" CvTextArea="187, 615, 76, 18" CvTextArgument="Director" CvType="Text" DesignTimeRectangle="187, 616, 76, 18" ElementType="Text" FuzzyMatches="10000" FuzzySelectorArgument="&lt;webctrl aaname='Director' parentid='__next' tag='SPAN' type='' class='ipc-metadata-list-item__label ipc-btn--not-interactable' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Director' /&gt;" Guid="b4294aad-8733-4406-8660-a6fb2af6cfe9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6c05bc865f4d3d50a480bca88fad68b9.png" xmlns="">0YLgDS_onQUqVREXpsceoug</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "(1972)",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "oPPaMI4bnkGBLnwitIKkOw",
+  "Reference": "UfJCBOyGjUSSH4Nhay-6Wg/oPPaMI4bnkGBLnwitIKkOw",
+  "ParentRef": "UfJCBOyGjUSSH4Nhay-6Wg/qbY87zAYpk-Z-KKnb9P_Kw",
+  "Created": "2025-10-20T18:40:49.6502618Z",
+  "Updated": "2025-10-20T18:40:49.6502618Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

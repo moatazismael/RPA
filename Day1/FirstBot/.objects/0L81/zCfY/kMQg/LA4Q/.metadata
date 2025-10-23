@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Chad Stahelski",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "LA4Qe3fkbkyU5hDzbKd8yA",
+  "Reference": "P_xVNg2Cu06BBR2KMMIAjw/LA4Qe3fkbkyU5hDzbKd8yA",
+  "ParentRef": "P_xVNg2Cu06BBR2KMMIAjw/kMQgjdN940CoCufcXOBg1w",
+  "Created": "2025-10-19T16:03:59.6773176Z",
+  "Updated": "2025-10-19T16:03:59.6773176Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ElHFDZgzUUi0y0bM8CvPhg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="8, 91, 1922, 899" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='RichEditD2DPT' /&gt;" Guid="78a428ea-c541-4545-ab2d-5ab991c03d1b" ScopeSelectorArgument="&lt;wnd app='notepad.exe' appid='Microsoft.WindowsNotepad_8wekyb3d8bbwe!App' title='Untitled - Notepad' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e80d46f0b5edb7bb8e0f8f265f864d2.png" xmlns="">08yYuGUG-2kaFM_-gJZQ5Pg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">VerifyTypeIntoExecution</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

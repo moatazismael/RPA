@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge IMDb Top 250 movies",
+  "Type": "Screen",
+  "Id": "WHKMFBU-_UWR3Lre3G9Bog",
+  "Reference": "UfJCBOyGjUSSH4Nhay-6Wg/WHKMFBU-_UWR3Lre3G9Bog",
+  "ParentRef": "UfJCBOyGjUSSH4Nhay-6Wg/lzD_MLOx0EaO4BG0hgrsyQ",
+  "Created": "2025-10-20T12:24:29.1569321Z",
+  "Updated": "2025-10-20T12:24:29.1569321Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

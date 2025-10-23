@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4aFa-rNkH0u8QZKpPROaNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="editorial.rottentomatoes.com/guide/best-movies-of-all-time" CVScreenId="7d5c1961-bb95-48c1-b92d-a0875668ea76" DesignTimeRectangle="704, 406, 52, 25" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl parentid='article_main_body' tag='TABLE' /&gt;&lt;webctrl class='year' tableRow='{0}' tag='SPAN' /&gt;&quot;, Counter)]" Guid="bb2ccbc4-d64d-4d88-83a9-4e5cca58f1fd" ScopeSelectorArgument="&lt;html app='msedge.exe' title='300 Best Movies of All Time | Rotten Tomatoes' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0b840974e8a9e014d0cc633a797035a2.png" xmlns="">0dZGSqWCMlEmwF0UMXMj_YA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="Counter">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>1</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

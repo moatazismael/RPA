@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UWf0BKIDgE6BztznrksrtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="172d8dfb-5cf9-4696-8c19-00f7439eb046" CvTextArea="264, 461, 763, 22" CvTextArgument="IMDb: Ratings, Reviews, and Where to Watch the Best Movies &amp; TV ..." CvType="Text" DesignTimeRectangle="266, 451, 762, 39" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='H3' /&gt;" Guid="044cfdc1-5030-456c-b9bf-012f6b116c3f" ScopeSelectorArgument="&lt;html app='msedge.exe' title='IMDB - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="172d8dfb-5cf9-4696-8c19-00f7439eb046" CvTextArea="314, 407, 43, 16" CvTextArgument="IMDb" CvType="Text" DesignTimeRectangle="315, 404, 146, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl class='VuuXrf' parentid='rso' tag='SPAN' type='' aaname='IMDb' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='IMDb' /&gt;" Guid="c839d809-6d82-4776-8e9b-5ad3c04d3c3d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b3b2f2f712f9105c3584b4d4e75a1aa9.png" xmlns="">0sDlstMDor0CdgZQm5imz0Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

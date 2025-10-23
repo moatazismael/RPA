@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LVtrIh89RUO3Z-LnW_RDVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt2911666" CVScreenId="50056a0f-0482-46c7-aa0b-47993dc8beba" CvType="AnyWordGroup" DesignTimeRectangle="1619, 363, 47, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__next' tag='DIV' type='' class='sc-c5358bb8-1 ixcZce' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="fd4e0892-d0b1-4115-929b-f750cc56fc86" ScopeSelectorArgument="&lt;html app='msedge.exe' title='John Wick (2014) - IMDb' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="50056a0f-0482-46c7-aa0b-47993dc8beba" CvTextArea="1584, 331, 117, 15" CvTextArgument="POPULARITY" CvType="Text" DesignTimeRectangle="1587, 330, 115, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='POPULARITY' parentid='__next' tag='DIV' type='' class='sc-9d3bc82f-1 lhxLQH' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='POPULARITY' /&gt;" Guid="584d60cd-ce71-4ce7-892b-ce5297c9029d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8d38e6f009de27a7466e5cbc6204e9a4.png" xmlns="">07HpvB5rpv0yUFgUqVsR1Ew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

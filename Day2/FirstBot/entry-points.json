@@ -1,0 +1,24 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "Flowchart.xaml",
+      "uniqueId": "b5353377-7814-4ba3-b2e2-62ca7d6f7385",
+      "type": "process"
+    },
+    {
+      "filePath": "Temperature\\Main.xaml",
+      "uniqueId": "532a1861-e675-482f-9afd-e58024800cc5",
+      "type": "process",
+      "input": {
+        "type": "object",
+        "properties": {
+          "argument1": {
+            "type": "string"
+          }
+        },
+        "required": []
+      }
+    }
+  ]
+}

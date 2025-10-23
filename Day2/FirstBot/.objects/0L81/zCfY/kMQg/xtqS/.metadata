@@ -1,0 +1,14 @@
+﻿{
+  "Name": "POPULARITY",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "xtqSeXTH2kmHvAmxfD5YpA",
+  "Reference": "P_xVNg2Cu06BBR2KMMIAjw/xtqSeXTH2kmHvAmxfD5YpA",
+  "ParentRef": "P_xVNg2Cu06BBR2KMMIAjw/kMQgjdN940CoCufcXOBg1w",
+  "Created": "2025-10-18T16:43:35.3120676Z",
+  "Updated": "2025-10-18T16:43:35.3120676Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

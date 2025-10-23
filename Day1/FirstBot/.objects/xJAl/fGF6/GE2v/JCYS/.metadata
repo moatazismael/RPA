@@ -1,0 +1,14 @@
+﻿{
+  "Name": "IMDb Ratings, Reviews,…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "JCYSnkjH8Eqa_syBBDGFcQ",
+  "Reference": "P_xVNg2Cu06BBR2KMMIAjw/JCYSnkjH8Eqa_syBBDGFcQ",
+  "ParentRef": "P_xVNg2Cu06BBR2KMMIAjw/GE2vfnh2lkKIKywpHRzHzA",
+  "Created": "2025-10-18T16:31:39.3342619Z",
+  "Updated": "2025-10-18T16:31:39.3342619Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

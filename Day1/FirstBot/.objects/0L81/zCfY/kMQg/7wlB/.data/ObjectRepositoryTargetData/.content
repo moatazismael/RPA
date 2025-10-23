@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fn9LaxuoDEiKDRRPZage3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt2911666" CVScreenId="50056a0f-0482-46c7-aa0b-47993dc8beba" CvType="AnyWordGroup" DesignTimeRectangle="1314, 355, 39, 30" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl parentid='__next' tag='SPAN' type='' class='sc-4dc495c1-1 lbQcRY' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' /&gt;" Guid="01646057-c512-4792-a47f-5abf1e6608b2" ScopeSelectorArgument="&lt;html app='msedge.exe' title='John Wick (2014) - IMDb' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="50056a0f-0482-46c7-aa0b-47993dc8beba" DesignTimeRectangle="1270, 330, 120, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='IMDb RATING' parentid='__next' tag='DIV' type='' class='sc-9d3bc82f-1 lhxLQH' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='IMDb RATING' /&gt;" Guid="1b4ca330-3186-4dea-a1be-2e92be75b72c" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="06b4ea474674aa9ff71c302e6e15d2ec.png" xmlns="">0oPzy6FSOIUWnRVHmvqvCQA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

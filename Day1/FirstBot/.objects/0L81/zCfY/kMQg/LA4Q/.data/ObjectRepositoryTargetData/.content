@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ar2VmWTcTEGSnEiodBj6cQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="imdb.com/title/tt2911666" CVScreenId="cf645e4c-5c45-4b53-9dae-7cfe87c37f1a" CvType="AnyWordGroup" DesignTimeRectangle="278, 614, 141, 24" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Chad Stahelski' parentid='__next' tag='A' /&gt;" Guid="8bd9601d-e3fc-4ac2-a419-ba444b1fd00b" ScopeSelectorArgument="&lt;html app='msedge.exe' title='John Wick (2014) - IMDb' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cf645e4c-5c45-4b53-9dae-7cfe87c37f1a" CvTextArea="187, 615, 231, 18" CvTextArgument="Director Chad Stahelski" CvType="Text" DesignTimeRectangle="190, 603, 1016, 43" ElementType="ListItem" FullSelectorArgument="&lt;webctrl aria-role='presentation' css-selector='body&amp;gt;div&amp;gt;main&amp;gt;div&amp;gt;section&amp;gt;section&amp;gt;div&amp;gt;section&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;ul&amp;gt;li' tag='LI' /&gt;" Guid="19bbb519-1a88-4b66-b82f-2be1337dc500" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b1be1c0e3cadfaa6cc5842b9e22a3b7a.png" xmlns="">0H1TQGVQSOE-0D7NH995_ow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

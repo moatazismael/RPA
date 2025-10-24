@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="PK75ZOtiXkycTwpDyfLyGA" Reference="AJcxu3ClnU21P9Ya4uMTfg/DJCgLSKRa0qFxVSgX8t5jA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="1uR6zFlXqUalDVs-S_fa8g" Reference="AJcxu3ClnU21P9Ya4uMTfg/DJCgLSKRa0qFxVSgX8t5jA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="556f9d43-af50-4348-a9d1-02079cbb7a02" DesignTimeRectangle="1029, 506, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="2d74163a-d080-4bff-9bd0-dd7e237b43bd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="556f9d43-af50-4348-a9d1-02079cbb7a02" DesignTimeRectangle="1029, 364, 375, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="2d74163a-d080-4bff-9bd0-dd7e237b43bd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="1">
-          <Target CVScreenId="556f9d43-af50-4348-a9d1-02079cbb7a02" DesignTimeRectangle="1029, 482, 80, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;" Guid="093d625a-16fc-4b43-902a-3eb560749fa4" SearchSteps="Selector" />
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="556f9d43-af50-4348-a9d1-02079cbb7a02" DesignTimeRectangle="1029, 340, 80, 21" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='First Name' tag='LABEL' /&gt;" Guid="093d625a-16fc-4b43-902a-3eb560749fa4" SearchSteps="Selector" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="235dc10466950e7b448d52941771632f.png" xmlns="">0qovziJQO00O_l4ZeOqmeyQ</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="15e02b1413d676a0c421e93b444707eb.png" xmlns="">07zJSSIuVDEq7U-2z-TgBKw</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>

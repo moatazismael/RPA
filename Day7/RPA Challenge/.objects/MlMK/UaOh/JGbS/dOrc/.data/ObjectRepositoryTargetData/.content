@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="PTKaPQ9d1UiZiTGNx_FOtQ" Reference="AJcxu3ClnU21P9Ya4uMTfg/dOrcN6iC5kGFE6prV3JkXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="4O5MhHglL0KnwF_VbisBaQ" Reference="AJcxu3ClnU21P9Ya4uMTfg/dOrcN6iC5kGFE6prV3JkXA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="2ef37da8-bc17-4c18-b587-28f1e7b0d070" DesignTimeRectangle="626, 617, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Role in Company' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="0d4ec4f7-d2be-4c6e-b0a5-10b6949ba4fe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="71a5c18b2162e0de4469c8653008afcf.png" xmlns="">0M83NMcyMNECHznTZT0WL5w</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="2ef37da8-bc17-4c18-b587-28f1e7b0d070" DesignTimeRectangle="626, 364, 375, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Role in Company' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="0d4ec4f7-d2be-4c6e-b0a5-10b6949ba4fe" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="852ad284096b6ef529a64d2f58e3bf5b.png" xmlns="">0vpyaqZ_uUUKd03b9J1GbJQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="EcfcN0mFnkOJ7_vy92TgRA" Reference="AJcxu3ClnU21P9Ya4uMTfg/3LBGdhdqiEGlNi_TUxUqug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="SbvAyUBCiE27sEMN8Wra5g" Reference="AJcxu3ClnU21P9Ya4uMTfg/3LBGdhdqiEGlNi_TUxUqug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="dd960fc9-a14e-4d9c-ab92-318badc26011" DesignTimeRectangle="626, 617, 375, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="8f733dd4-4e14-47e0-a097-0d0cb6e15521" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="e0f2a9cf5137503f11bc27c032dd7f95.png" xmlns="">07p4VVggzzUmDgPAaVcsIbA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" CVScreenId="dd960fc9-a14e-4d9c-ab92-318badc26011" DesignTimeRectangle="626, 695, 375, 58" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Address' tag='LABEL' /&gt;&lt;nav up='1' /&gt;&lt;webctrl tag='INPUT' /&gt;" Guid="8f733dd4-4e14-47e0-a097-0d0cb6e15521" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a6c71b8f4caae59c9e1dcb3e33208251.png" xmlns="">0uScKDTwOYECUY6MNYhxAUg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>
